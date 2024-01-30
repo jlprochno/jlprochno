@@ -7,14 +7,14 @@
 <div class="github-stats" style="display: flex; height: 200px;">
   <div style="flex: 1; width: 50%;">
     <p style="width: 50%; height: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlprochno&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jlprochno_most_used_languages" style="width: 30%; height: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlprochno&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jlprochno_most_used_languages" style="width: 30%; height: 10%;" />
     </p>
   </div>  
   <div style="flex: 1;">
     <picture>
       <source 
   <div style="flex: 1; width: 50%;">
-    <picture style="width: 50%; height: 100%;">
+    <picture style="width: 50%; height: 10%;">
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=dracula"
         media="(prefers-color-scheme: dark)"
