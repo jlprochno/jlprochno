@@ -24,7 +24,7 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true" />
-      <img src="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true" style="width: 50%; height: 50%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true" style="width: 50%; height: 10%;" />
     </picture>
   </div>
 </div>
