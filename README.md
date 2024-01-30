@@ -1,16 +1,49 @@
-### Hi there 👋
+<!-- Hi, I'm Jenyffer Prochno, a bachelor's student in Data Science at Uninter! -->
 
-<!--
-**jlprochno/jlprochno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Stats -->
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <p>      
+<div class="github-stats" style="display: flex; height: 200px;">
+  <div style="flex: 1; width: 50%;">
+    <p style="width: 50%; height: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlprochno&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jlprochno_most_used_languages" style="width: 30%; height: 100%;" />
+    </p>
+  </div>  
+  <div style="flex: 1;">
+    <picture>
+      <source 
+  <div style="flex: 1; width: 50%;">
+    <picture style="width: 50%; height: 100%;">
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=dracula"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=dracula"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true" style="width: 50%; height: 100%;" />
+    </picture>
+  </div>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social Media Links -->
+<div> 
+  <a href="https://www.youtube.com/@jprochno" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/jlprochno/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.twitch.tv/jprochno" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:jlprochno@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jlprochno/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
