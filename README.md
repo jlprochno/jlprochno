@@ -5,7 +5,7 @@
   <div style="flex: 1;">
     <p>      
 <div class="github-stats" style="display: flex; height: 200px;">
-  <div style="flex: 1; width: 50%;">
+  <div style="flex: 1; width: 10%;">
     <p style="width: 50%; height: 50%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlprochno&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jlprochno_most_used_languages" style="width: 30%; height: 10%;" />
     </p>
