@@ -13,7 +13,7 @@
   <div style="flex: 1;">
     <picture>
       <source 
-  <div style="flex: 1; width: 50%;">
+  <div style="flex: 1; width: 10%;">
     <picture style="width: 50%; height: 10%;">
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=dracula"
