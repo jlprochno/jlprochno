@@ -25,6 +25,10 @@
     </picture>
   </div>
 </div>
+<!-- Tech Stack Icons -->
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.bleepstatic.com/content/hl-images/2021/05/10/thumb/170x170_GitHub-headpic.jpg">
+</div>
 
 <!-- Social Media Links -->
 ##
