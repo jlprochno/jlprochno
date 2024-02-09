@@ -27,7 +27,7 @@
 </div>
 <!-- Tech Stack Icons -->
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://ibb.co/jzB5jP5">
+  <img align="right" alt="Jeny-pic" height="150" style="border-radius:50px;" <img src="https://i.ibb.co/8bTBQLB/2020052722273500-02-CB906-EA538-A35643-C1-E1484-C4-B947-D.jpg" alt="2020052722273500-02-CB906-EA538-A35643-C1-E1484-C4-B947-D" border="0">
 </div>
 
 <!-- Social Media Links -->
