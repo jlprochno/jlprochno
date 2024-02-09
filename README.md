@@ -38,7 +38,7 @@
 <!-- Social Media Links -->
 ##
 <div> 
-  <a href="www.youtube.com/@jprochno" target="_blank">
+  <a href="https://www.youtube.com/@jprochno" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/jlprochno/" target="_blank">
