@@ -23,18 +23,6 @@
   </div>
 </div>
 
-<!-- Tech Stack Icons -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="jlprochno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jlprochno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jlprochno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jlprochno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jlprochno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="jlprochno-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="jlprochno-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="jlprochno-pic" height="150" style="border-radius:50px;" src="https://www.bleepstatic.com/content/hl-images/2021/05/10/thumb/170x170_GitHub-headpic.jpg">
-</div>
-
 <!-- Social Media Links -->
 ##
 <div> 
