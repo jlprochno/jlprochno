@@ -8,7 +8,7 @@
     <p style="width: 50%; height: 50%;">      
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlprochno&layout=compact&theme=gotham" 
            alt="most_used_languages" 
-           style="width: 10%; height: 50%;" />
+           style="width: 20%; height: 50%;" />
     </p>
   </div>
   <div style="flex: 1; width: 50%;">
