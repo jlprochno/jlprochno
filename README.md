@@ -2,7 +2,7 @@
 <!-- Hi, I'm Jenyffer Prochno, a Data Science student at Uninter! -->
 
 <!-- GitHub Stats -->
-<div class="github-stats" style="display: flex; height: 50px;">
+<div class="github-stats" style="display: flex; height: 300px;">
   
   <div style="flex: 1; width: 50%;">    
     <p style="width: 50%; height: 50%;">      
