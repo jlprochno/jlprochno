@@ -12,7 +12,7 @@
     </p>
   </div>
   <div style="flex: 1; width: 50%;">
-    <picture style="width: 100%; height: 100%;">
+    <picture style="width: 50%; height: 50%;">
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=gotham"
         media="(prefers-color-scheme: dark)"
