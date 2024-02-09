@@ -2,9 +2,9 @@
 <!-- Hi, I'm Jenyffer Prochno, a Data Science student at Uninter! -->
 
 <!-- GitHub Stats -->
-<div class="github-stats" style="display: flex; height: 100px;">
+<div class="github-stats" style="display: flex; height: 3100px;">
   
-  <div style="flex: 1; width: 100%;">    
+  <div style="flex: 1; width: 50%;">    
     <p style="width: 100%; height: 100%;">      
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlprochno&layout=compact&theme=gotham" 
            alt="most_used_languages" 
