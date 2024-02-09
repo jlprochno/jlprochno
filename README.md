@@ -8,7 +8,7 @@
     <p style="width: 50%; height: 50%;">      
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlprochno&layout=compact&theme=gotham" 
            alt="most_used_languages" 
-           style="width: 46%; height: 50%;" />
+           style="width: 10%; height: 50%;" />
     </p>
   </div>
   <div style="flex: 1; width: 50%;">
@@ -21,7 +21,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true" style="width: 50%; height: 50%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true" style="width: 100%; height: 100%;" />
     </picture>
   </div>
 </div>
