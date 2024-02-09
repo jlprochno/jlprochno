@@ -15,7 +15,7 @@
     <picture style="width: 50%; height: 50%;">
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=dracula"
-        media="(prefers-color-scheme: dark)"
+        media="(prefers-color-scheme: light)"
       />
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=dracula"
