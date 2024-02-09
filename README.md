@@ -6,7 +6,7 @@
   
   <div style="flex: 1; width: 50%;">    
     <p style="width: 50%; height: 50%;">      
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlprochno&layout=compact&theme=gotham" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlprochno&layout=compact&theme=synthwave" 
            alt="most_used_languages" 
            style="width: 30%; height: 50%;" />
     </p>
@@ -14,7 +14,7 @@
   <div style="flex: 1; width: 50%;">
     <picture style="width: 50%; height: 50%;">
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=gotham"
+        srcset="https://github-readme-stats.vercel.app/api?username=jlprochno&show_icons=true&theme=synthwave"
         media="(prefers-color-scheme: dark)"
       />
       <source
